@@ -22,4 +22,4 @@ def appenToFile(x):
     filename.write("\n")
     filename.close()
 
-#test
+print("hello")
